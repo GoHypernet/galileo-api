@@ -18,7 +18,7 @@ redoc = [
         'spec': 'https://api.galileoapp.io/galileo/user_interface/v1/openapi.yaml',
         'opts': {
             'lazy-rendering': True,
-            'suppress-warnings': False,
+            'suppress-warnings': True,
         },
     },
 ]
