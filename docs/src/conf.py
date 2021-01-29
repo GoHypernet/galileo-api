@@ -19,7 +19,7 @@ redoc = [
         'opts': {
             'lazy-rendering': True,
             'suppress-warnings': True,
-            'expand-responses': [200]
+            'expand-responses': ["200"]
         },
     },
 ]
